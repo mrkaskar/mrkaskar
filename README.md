@@ -2,9 +2,9 @@
 
 This is my personal github account - I hope to use this frequently. (This not my usual work accounts, which are private bitbuckets and gitlabs mostly) 
 
-My usual stacks 📚 React, NextJS, NodeJS, NestJS, and any db. 
-My super fast stacks 📚 Astro or SolidJS, and Golang!
-My super fast fast stacks 📚 Fullstack rust with actix web + dioxus! 
+📚 My usual stacks - React, NextJS, NodeJS, NestJS, and any db. <br>
+📚 My super fast stacks - Astro or SolidJS, and Golang! <br>
+📚 My super fast fast stacks - Fullstack rust with actix web + dioxus! <br>
 
 - 🔭 I’m currently working on fullstack development for fun projects. 
 - 🌱 I’m currently learning 🦀 rust because other languages are boring and 🦀 rust revives my deer programmer's 👻 soul back. 
