@@ -10,6 +10,6 @@ This is my personal github account - I hope to use this frequently. (This not my
 - 🌱 I’m currently learning 🦀 rust because other languages are boring and 🦀 rust revives my deer programmer's 👻 soul back. 
 - 👯 I’m looking to collaborate on big and fun projects. 
 - 🤔 I’m looking for help with growing together by writing awesome codes.  
-- 📫 How to reach me: Reach me easily at https://www.linkedin.com/in/kzinthant/
+- 📫 How to reach me: easily at https://www.linkedin.com/in/kzinthant/
 - 😄 Pronouns: Call me Kaskar!
 - ⚡ Fun fact: I am super optimistic and freely helpful lol. 
